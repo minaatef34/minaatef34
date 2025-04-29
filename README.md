@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/david-adel-b467431b8" target="_blank"><img src="https://img.shields.io/badge/David%20Adel-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
+<a href="https://www.linkedin.com/in/mina-atef-021a92198?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/David%20Adel-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
 
 
 
