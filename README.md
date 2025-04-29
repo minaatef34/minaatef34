@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Mina Atef! 👋</h1>
 <h3 align="center">I'm a motivated CS developer who loves learning and exploring new technologies. My focus is on mobile development, particularly using Flutter and Dart.</h3>
 
-- 🔭 Fresh graduated from **Integrated Thebes Academy**
+- 🔭 Fresh graduated from **Integrated Nahda University**
 
 - 💬 Ask me about **Mobile development**
 
@@ -45,10 +45,10 @@
   <a href=""><img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-1976D2?style=flat-square" /></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidAdel&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinaAtef&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=David%20Adel&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=DavidAdel&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Mina%20Atef&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MinaAtef&style=for-the-badge">
 </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-adel362&show_icons=true&locale=en&layout=compact" alt="david-adel362" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minaatef34&show_icons=true&locale=en&layout=compact" alt="minaatef34" /></p>
